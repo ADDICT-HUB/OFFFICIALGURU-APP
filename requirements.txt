@@ -1,9 +1,6 @@
 fastapi
 uvicorn
 sqlalchemy
-pydantic
-databases
-python-multipart
 passlib[bcrypt]
+python-multipart
 jinja2
-aiosqlite
